@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/yuhsh/CmakeProject/Demo3/src/Multiply.cpp
+Multiply.h
+/home/yuhsh/CmakeProject/Demo3/src/Multiply.h
+
+/home/yuhsh/CmakeProject/Demo3/src/main.cpp
+iostream
+-
+Multiply.h
+/home/yuhsh/CmakeProject/Demo3/src/Multiply.h
+
+include/Multiply.h
+

@@ -1,1 +1,5 @@
 # CMakeProject
+Demo1是只有一个源文件的CMakeLists.txt管理的例子
+Demo2是有多个源文件的CMakeLists.txt管理的例子
+Demo3是有多个源文件多个目录的CMakeLists.txt管理的例子
+Demo4是有多个源文件多个目录，并且引用了OpenCV相关库的CMakeLists.txt管理的例子

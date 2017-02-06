@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/Demo.dir/Multiply.cpp.o CMakeFiles/Demo.dir/main.cpp.o  -o ../bin/Demo  -L/home/yuhsh/CmakeProject/Demo3/lib -rdynamic 
